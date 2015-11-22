@@ -3,13 +3,12 @@ permalink: /:title/
 url: http://github.algocode.cn
 #highlighter: pygments
 pygments: true
-name: 飘过的小牛
-description: 飘过的小牛 | Stop talking, start doing.
+name: Qbattle
+description: Qbattle | Stop talking, start doing.
 author: niushuai
-email: hnns1990@gmail.com
-duoshuo: niushuai
-weibo: 1891858481
-hub: niushuai
+email: skyqinsc@gmail.com
+duoshuo: skyqinsc
+weibo: 18627159396
 safe: true
 paginate: 100
 about: "弱菜一枚。"
