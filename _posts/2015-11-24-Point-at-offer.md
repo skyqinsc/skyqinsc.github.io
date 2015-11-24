@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 剑指offer练习
-categoties： algorithm
+categories： algorithm
 tags： Point at offer
 
 ---
