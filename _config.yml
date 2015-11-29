@@ -1,40 +1,16 @@
 # Site settings
-title: Hackerxu's Blog
-email: 468137306@qq.com
-description: "Python,HTML,CSS,Machine Leaning"
-permalink: /:year/:month/:day/:title.html
-baseurl: ""
-url: "http://github.algocode.cn"
-atom-baseurl: "http://github.algocode.cn"
-author: "skyqinsc"
+title: Algocode
+email: skyqinsc@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Jekyll Theme Demo
+baseurl: "/skyqinsc.github.io"       # the subpath of your site, e.g. /blog/
+url: "http://skyqinsc.github.io"   # the base hostname & protocol for your site
+twitter_username: username
+github_username: skyqinsc
 
 # Build settings
-# permalink: date
-
-highlighter: pygments
 markdown: redcarpet
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
+
 redcarpet:
-  extensions: [fenced_code_blocks,no_intra_emphasis,strikethrough,no_intra_emphasis,autolink,tables]
-
-#duoshuo
-  comments :
-    provider : duoshuo
-    duoshuo :
-      short_name : taizilongxu
-
-navigations:
-  - title: About
-    class: fa fa-list-ul
-    href: /about/
-  - title: Archive
-    class: fa fa-tags
-    href: /archive/
-  - title: Categories
-    class: fa fa-user
-    href: /categories/
-  - title: Tags
-    class: fa fa-film
-    href: /tags/
-  - title: Rss
-    class: fa fa-rss
-    href: /atom.xml
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
