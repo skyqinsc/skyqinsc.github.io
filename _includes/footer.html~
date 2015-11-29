@@ -18,12 +18,12 @@
                 </svg>
                 <!-- </span> -->
             </div>
-            <a href="https://github.com/skyqinsc">
+            <a href="https://github.com/taizilongxu">
                 Fork me on github
             </a>
         </div>
         <div class="footer-col-2">
-            <p>© 2014 - 2015 by <font style="color:#f44336">❤ </font> <a href="http://github.com/skyqinsc">Qbattle</a></p>
+            <p>© 2014 - 2015 by <font style="color:#f44336">❤ </font> <a href="http://github.com/taizilongxu">Hackerxu</a></p>
         </div>
         <!-- <div class="footer-col-3 column">
       <p class="text">{{ site.description }}</p>
