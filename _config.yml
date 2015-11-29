@@ -4,7 +4,7 @@ name: Algocode
 description: Private Blog
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://github.algocode.cn
+url: http://skyqinsc.github.cn
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
