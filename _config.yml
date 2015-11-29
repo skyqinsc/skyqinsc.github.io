@@ -1,14 +1,10 @@
-markdown: rdiscount
-permalink: /:title/
-url: http://github.algocode.cn
+name: Simply Grey
+markdown: redcarpet
 pygments: true
-name: Qbattle
-description: Qbattle | Stop talking, start doing.
-author: skyqinsc
-email: skyqinsc@gmail.com
-duoshuo: skyqinsc
-weibo: 18627159396
-hub: skyqinsc
-safe: true
-paginate: 100
-about: "弱菜一枚。"
+github: https://www.github.com/exaem
+about: I am an independent developer from the sunny UK. I dabble in Ruby, play in C and I'm an avid systems administrator.
+urls:
+    - text: github
+      url: https://github.com/exaem
+    - text: email
+      url: mailto:exaem@exaem.co.uk
