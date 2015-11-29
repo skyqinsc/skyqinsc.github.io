@@ -1,9 +1,7 @@
-###[飘过的小牛](http://github.thinkingbar.com)
+个人博客,请随意使用
 
----
+PS:如果使用此博客,请修改多说
 
-本博客运行于 [Jekyll](http://jekyllrb.com) @ [GitHub](http://github.com/niushuai/reading)，博客模板修改自 [WebFrog](http://webfrogs.me/) 的博客。
+PSS: 首页文章是在categray == life里的第一篇
 
-飘过的小牛
-
-2014-03-20
+(*^__^*)
