@@ -1,8 +1,7 @@
 markdown: rdiscount
 permalink: /:title/
 url: http://github.algocode.cn
-highlight: true
-#pygments: true
+pygments: true
 name: Qbattle
 description: Qbattle | Stop talking, start doing.
 author: skyqinsc
