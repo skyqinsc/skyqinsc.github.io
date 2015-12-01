@@ -15,9 +15,9 @@
             <div class="post-content">
             {{ content }}
             </div>
-            {% if page.comments %}
+            
             {% include comments.html %}
-            {% endif %}
+            
             </div>
           </div>
           <div class="pagination">
@@ -27,7 +27,7 @@
               {% if page.previous %}
                 <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Older Post</a>
               {% endif %}
-</div>
+          </div>
 
         </div>
     </div>

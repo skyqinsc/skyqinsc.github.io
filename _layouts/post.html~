@@ -15,12 +15,9 @@
             <div class="post-content">
             {{ content }}
             </div>
-            {% if page.comments %}
-            <div id="disqus_thread">
-                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-                <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            </div>
-            {% endif %}
+            
+            {% include comments.html %}
+            
             </div>
           </div>
           <div class="pagination">
@@ -30,7 +27,7 @@
               {% if page.previous %}
                 <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">Older Post</a>
               {% endif %}
-</div>
+          </div>
 
         </div>
     </div>
