@@ -14,7 +14,7 @@ baseurl: ''
 
 # This can be '' to hide the Github nav button
 github: 'skyqinsc'
-duoshuo: algocode
+
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
 
