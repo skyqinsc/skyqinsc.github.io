@@ -24,7 +24,7 @@ tags: C++
 
 ++some instances：++
 
-{% highlight cpp linenos %}
+{% highlight cpp %}
 
 /*
     struct
@@ -42,6 +42,10 @@ typedef struct B_{
     int a;//32-35
     short b;//36-37 [38-39补齐：：最大8byte all=6*8=48byte]
 }B;
+
+/*
+    union
+*/
 
 union C_{
 	int a;//int 4byte
