@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<div class="well">
-    <h1>About me</h1>
-    <p>Hello, I am me.</p>
-</div>
-
 **明年三月份，就要春招了，还有好多锅没有背啊！！**
 
 突然感觉到很乱,1015/12/4也不禁陷入了思想混乱：
