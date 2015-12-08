@@ -4,20 +4,16 @@ layout: page
 comments: no
 ---
 
-程序猿一头，目前专注于 iOS 系统的开发	
-热爱编程，开源爱好者		
-代码洁癖症患者  	
-微博控   
-热爱一切美好的事物
+* 热爱编程，开源爱好者
+
 
 ----
 
 ###联系方式：        
 
-个人邮箱: [ccf.developer@gmail.com](mailto:ccf.developer@gmail.com)     
-新浪微博: [webfrogs](http://weibo.com/u/1713195262)	    
-github : [webfrogs](https://github.com/webfrogs)        
-twitter: [Carl Chen](https://twitter.com/CarlOnWeb)
+个人邮箱: [skyqinsc@gmail.com](skyqinsc@gmail.com)
+新浪微博: [skyqinsc](http://weibo.com/u/3496162085)
+github : [skyqinsc](https://github.com/skyqinsc)
 
 ----
 
