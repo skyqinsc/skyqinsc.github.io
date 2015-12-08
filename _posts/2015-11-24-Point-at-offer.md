@@ -20,7 +20,7 @@ tags: Point_at_offer
 * [8.跳台阶](https://github.com/skyqinsc/Point-at-offer/blob/master/7_8_9.cc)
 * [9.变态跳台阶](https://github.com/skyqinsc/Point-at-offer/blob/master/7_8_9.cc)
 * [10.矩形覆盖](https://github.com/skyqinsc/Point-at-offer/blob/master/10.%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.py)
-* [11.二进制中1的个数](http://github.algocode.cn/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E4%B8%AD'1%E2%80%99%E7%9A%84%E4%B8%AA%E6%95%B0/)
+* [11.二进制中1的个数](http://github.algocode.cn/2015/11/24/%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0%E4%B8%AD'1%E2%80%99%E7%9A%84%E4%B8%AA%E6%95%B0/)
 
 ---
 ### END
