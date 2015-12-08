@@ -2,18 +2,21 @@
 title: About me
 layout: page
 comments: no
+
 ---
 
-* 热爱编程，开源爱好者
+** Have my word **
 
 
 ----
 
 ###联系方式：
 
-个人邮箱: [skyqinsc@gmail.com](skyqinsc@gmail.com) 
-新浪微博: [skyqinsc](http://weibo.com/u/3496162085) 
-github : [skyqinsc](https://github.com/skyqinsc) 
+个人邮箱: [skyqinsc@gmail.com](skyqinsc@gmail.com)
+
+新浪微博: [skyqinsc](http://weibo.com/u/3496162085)
+
+github : [skyqinsc](https://github.com/skyqinsc)
 
 ----
 
