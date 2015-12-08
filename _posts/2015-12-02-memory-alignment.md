@@ -61,4 +61,4 @@ union D_{
 {% endhighlight %}
 
 ++reslut of ex：++
-![运行结果](/images/memory-alignment.png)
+![运行结果](/assets/images/memory-alignment.png)
