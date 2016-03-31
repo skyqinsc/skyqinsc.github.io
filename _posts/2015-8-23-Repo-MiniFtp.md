@@ -1,33 +1,33 @@
----
-layout: post
+yout: post
 title: Repo of MiniFtp
 categories: Linux
-tags: LinuxÍøÂç±à³Ì
+tags: Linuxç½‘ç»œç¼–ç¨‹
 
 ---
 
 [MiniFtp v1.0](https://github.com/skyqinsc/MiniFtp/)@Copyright Qinsc
-MiniFtp·þÎñÆ÷£º
+MiniFtpæœåŠ¡å™¨ï¼š
 
-½éÉÜ£º±¾·þÎñÆ÷£¬ÊµÏÖFTP»ù±¾ÃüÁî£¬Ö÷±»¶¯´«ÊäÄ£Ê½¡£
+ä»‹ç»ï¼šæœ¬æœåŠ¡å™¨ï¼Œå®žçŽ°FTPåŸºæœ¬å‘½ä»¤ï¼Œä¸»è¢«åŠ¨ä¼ è¾“æ¨¡å¼ã€‚
 
-¼¼Êõ£º×÷ÎªÒ»¸ö²¢·¢·þÎñÆ÷Ä£ÐÍ£¬Éæ¼°¶à½ø³ÌÐ­×÷£¬½ø³ÌÍ¨ÐÅ£¬I/O¸´ÓÃÄ£ÐÍ£¬ÍøÂç±à³ÌÏà¹Ø¼¼Êõ£»
+æŠ€æœ¯ï¼šä½œä¸ºä¸€ä¸ªå¹¶å‘æœåŠ¡å™¨æ¨¡åž‹ï¼Œæ¶‰åŠå¤šè¿›ç¨‹åä½œï¼Œè¿›ç¨‹é€šä¿¡ï¼ŒI/Oå¤ç”¨æ¨¡åž‹ï¼Œç½‘ç»œç¼–ç¨‹ç›¸å…³æŠ€æœ¯ï¼›
 
 
-¹¦ÄÜÊµÏÖ£º
-* Ö÷±»¶¯´«ÊäÄ£Ê½
-* FTP»ù±¾ÃüÁî
-* ÉÏ´«ÓëÏÂÔØ£¬¶ÏµãÐø´«
-* ÉÏ´«/ÏÂÔØÏÞËÙ
-* Á¬½ÓÊýÏÞÖÆ
-
-* * *
-
-**(´ËRepo½ö×÷¸öÈËÏîÄ¿£¬ÈçÐèfork£¬Çë×¢Ã÷³ö´¦)**
+åŠŸèƒ½å®žçŽ°ï¼š
+* ä¸»è¢«åŠ¨ä¼ è¾“æ¨¡å¼
+* FTPåŸºæœ¬å‘½ä»¤
+* ä¸Šä¼ ä¸Žä¸‹è½½ï¼Œæ–­ç‚¹ç»­ä¼ 
+* ä¸Šä¼ /ä¸‹è½½é™é€Ÿ
+* è¿žæŽ¥æ•°é™åˆ¶
 
 * * *
 
-*LeapFTP3.01³É¹¦Á¬½ÓMiniFtp·þÎñÆ÷½ØÍ¼:*
+**(æ­¤Repoä»…ä½œä¸ªäººé¡¹ç›®ï¼Œå¦‚éœ€forkï¼Œè¯·æ³¨æ˜Žå‡ºå¤„)**
+
+* * *
+
+*LeapFTP3.01æˆåŠŸè¿žæŽ¥MiniFtpæœåŠ¡å™¨æˆªå›¾:*
 ![pic of repo](https://github.com/skyqinsc/MiniFtp/blob/master/AppData/MiniFtp.png)
 
 By Qinsc
+
