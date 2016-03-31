@@ -1,8 +1,7 @@
-markdown: rdiscount
 permalink: /:year/:month/:day/:title/
 url: http://github.algocode.cn
 author: Qinsc
-highlighter: pygments
+highlighter: rouge 
 exclude: ["Rakefile", "CNAME", "README.md"]
 safe: true
 paginate: 16
