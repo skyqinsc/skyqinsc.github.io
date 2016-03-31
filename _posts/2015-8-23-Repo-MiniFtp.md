@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: Repo of MiniFtp
 categories: Linux
 tags: Linux网络编程
