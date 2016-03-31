@@ -15,7 +15,7 @@ tags: Git
 > 
 > 这里需要修改owner的权限。你可以通过`ls -al`命令查看权限，
 > 
-> 比如：我发现.git/objets/下多个文件d的owner是root，我qinsc用户自然git commit过程导致权限不足；
+> 比如：我发现.git/objets/下多个文件的owner是root，我qinsc用户自然git commit过程导致权限不足；
 >
 > **解决办法：**`chown -r qinsc .git/objects`递归改变权限
 
