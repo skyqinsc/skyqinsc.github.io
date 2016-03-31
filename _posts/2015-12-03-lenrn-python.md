@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Python (day 1)
+title: Learning Python
 categories: Python Tutorial
 tags: python
 
