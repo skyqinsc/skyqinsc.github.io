@@ -5,7 +5,9 @@ comments: no
 
 ---
 
-** Have my word + _ + **
+**Have my word**
+
+**爱生活，爱技术**
 
 
 ----
