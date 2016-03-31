@@ -6,7 +6,7 @@ tags: Linux网络编程
 
 ---
 
-[MiniFtp v1.0](https://github.com/skyqinsc/MiniFtp/)@Copyright Qinsc
+[MiniFtp v1.0](https://github.com/skyqinsc/MiniFtp/) Copyright © Qinsc
 MiniFtp服务器：
 
 介绍：本服务器，实现FTP基本命令，主被动传输模式。
