@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git Error And Solution
+title: Bind：Bind Without Permission
 categories: Linux
 tags: Linxu网络编程
 
@@ -11,6 +11,8 @@ tags: Linxu网络编程
 ###Bind：No Permission ？ WHY！！！
 
 FTP服务器实现：nobody进程+服务进程来完成控制连接和数据连接全过程，nobody进程负责解决权限问题（这里不用root进程，自然是安全考虑！）
+
+普通用户无权限绑定1024一下的特权端口
 
 对于uid大于0的用户，操作前会进行有效用户权限的检查，而root用户之间pass内核检测！
 
