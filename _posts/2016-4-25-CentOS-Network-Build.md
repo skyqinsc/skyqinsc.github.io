@@ -12,18 +12,18 @@ tags: Network
 
 > vim /etc/sysconfig/network-scripts/ifcfg-eth0
 >
-> DEVICE=eth0
-> HWADDR=00:0C:29:82:07:12
-> TYPE=Ethernet
-UUID=cb5caa1e-7309-4469-833b-c01cb809973b
-ONBOOT=yes
-NM_CONTROLLED=yes
-BOOTPROTO=static
-NETMASK=255.255.255.0
-IPADDR=192.168.79.3
-IPV6INIT=no
-IPV6_AUTOCONF=no
-GATEWAY=192.168.79.2
-DNS1=8.8.8.8
-DNS2=8.8.4.4
-DOMAIN=localhost.localdomain
+	DEVICE=eth0
+	HWADDR=00:0C:29:82:07:12
+	TYPE=Ethernet
+	UUID=cb5caa1e-7309-4469-833b-c01cb809973b
+	ONBOOT=yes
+	NM_CONTROLLED=yes
+	BOOTPROTO=static
+	NETMASK=255.255.255.0
+	IPADDR=192.168.79.3
+	IPV6INIT=no
+	IPV6_AUTOCONF=no
+	GATEWAY=192.168.79.2
+	DNS1=8.8.8.8
+	DNS2=8.8.4.4
+	DOMAIN=localhost.localdomain
