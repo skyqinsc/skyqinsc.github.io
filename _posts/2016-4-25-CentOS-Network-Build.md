@@ -13,8 +13,8 @@ tags: Network
 > vim /etc/sysconfig/network-scripts/ifcfg-eth0
 >
 > DEVICE=eth0
-HWADDR=00:0C:29:82:07:12
-TYPE=Ethernet
+> HWADDR=00:0C:29:82:07:12
+> TYPE=Ethernet
 UUID=cb5caa1e-7309-4469-833b-c01cb809973b
 ONBOOT=yes
 NM_CONTROLLED=yes
