@@ -10,7 +10,7 @@ tags: Network
 
 这里贡献自己的eth0虚拟网卡的配置：
 
-> `vim /etc/sysconfig/network-scripts/ifcfg-eth0`
+>	vim /etc/sysconfig/network-scripts/ifcfg-eth0
 >
 >	DEVICE=eth0
 	HWADDR=00:0C:29:82:07:12
