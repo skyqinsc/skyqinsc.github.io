@@ -19,14 +19,9 @@ comments: no
 * 熟悉C/C++，了解Python，Bash
 ----
 
-###联系方式：
-
-个人邮箱: [skyqinsc@gmail.com](skyqinsc@gmail.com)
-
-新浪微博: [skyqinsc](http://weibo.com/u/3496162085)
+###联系�
 
 github : [skyqinsc](https://github.com/skyqinsc)
-
 ----
 
 
