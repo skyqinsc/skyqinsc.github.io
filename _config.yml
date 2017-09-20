@@ -12,3 +12,6 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 highlighter: rouge
+
+# basic setting
+encoding: UTF-8
