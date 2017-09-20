@@ -7,11 +7,18 @@ paginate: 16
 
 
 # markdown
-markdown: kramdown
 kramdown:
-  syntax_highlighter: rouge # use Github Flavored Markdown !important
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  use_coderay: true
+  syntax_highlighter: rouge
+  coderay:
+    coderay_line_numbers:  nil
 
-highlighter: rouge
+# highlighter: rouge
 
 # basic setting
 encoding: UTF-8
