@@ -19,7 +19,7 @@ comments: no
 * 熟悉C/C++，了解Python，Bash
 ----
 
-###联系�
+###联系
 
 github : [skyqinsc](https://github.com/skyqinsc)
 ----
