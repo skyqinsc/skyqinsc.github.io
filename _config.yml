@@ -1,7 +1,6 @@
 permalink: /:year/:month/:day/:title/
 url: http://skyqinsc.github.io
 author: Qinsc
-highlighter: rouge 
 exclude: ["Rakefile", "CNAME", "README.md"]
 safe: true
 paginate: 16
@@ -11,3 +10,5 @@ paginate: 16
 markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
+
+highlighter: rouge
