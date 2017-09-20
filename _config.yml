@@ -5,3 +5,9 @@ highlighter: rouge
 exclude: ["Rakefile", "CNAME", "README.md"]
 safe: true
 paginate: 16
+
+
+# markdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
