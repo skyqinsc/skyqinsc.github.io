@@ -1,5 +1,5 @@
 permalink: /:year/:month/:day/:title/
-url: http://skyqinsc.github.io
+url: https://skyqinsc.github.io
 author: Qinsc
 exclude: ["Rakefile", "CNAME", "README.md"]
 safe: true
