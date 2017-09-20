@@ -7,7 +7,7 @@ tags: python
 
 1.在敲《A byte of python》的代码时，有一个问题，下面是代码：
 
-{% highlight python linenos %}
+```python
 #!/usr/bin/python
 #filename:continue.py
 
@@ -20,7 +20,7 @@ while True:
         print('too small')
         continue
     print('the lenght is :{0}'.format(len(s)))
-{% endhighlight python %}
+```
 
 当我输入为：abcdef，提示说输入错误。
 
