@@ -6,12 +6,12 @@ safe: true
 paginate: 16
 
 
-# # markdown
-# markdown: kramdown
-# kramdown:
-#   input: GFM                            # use Github Flavored Markdown !important
+# markdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
 
-# highlighter: rouge
+highlighter: rouge
 
 # basic setting
 encoding: UTF-8
